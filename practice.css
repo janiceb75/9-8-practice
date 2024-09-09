@@ -1,0 +1,27 @@
+h3{
+   color:orange;
+   background-color: rgba(66, 215, 55, 0.4); 
+}
+
+p{
+    /* When we do it this way, the opacity affects the text and background color */
+    color: rgb(191, 255, 0);
+    background-color: blue;
+    opacity: 0.2;
+}
+
+h4{
+    /* when we do it this way the text is not affected, only background */
+    color: red;
+    background-color: rgba(126, 7, 86, 0.2);
+
+}
+
+ol{
+    color: yellowgreen;
+}
+
+div{
+    border: 2px solid;
+    color: purple;
+}
